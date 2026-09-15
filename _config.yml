@@ -1,0 +1,15 @@
+# Cấu hình trang GitHub Pages — sinh viên chỉ cần sửa ba dòng đầu
+title: tên
+description: gờ meo
+author: tên github
+
+theme: jekyll-theme-cayman
+lang: vi
+
+# Đừng sửa phần dưới trừ khi em biết mình đang làm gì
+markdown: kramdown
+kramdown:
+  input: GFM
+exclude:
+  - README.md
+  - .gitignore
